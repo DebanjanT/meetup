@@ -83,7 +83,6 @@ function AddMeetupform(props) {
                 Image Url
               </label>
               <input
-                required
                 ref={imageRef}
                 id="image"
                 type="url"
